@@ -10,5 +10,5 @@
 
   Run `npm run dev` to start the development server.
 
-  deploy trigger
+  deploy trigger!
   
