@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/26544451/README.md)
 
-  # Design Alert Center UI
+  # Design Alert Center UI - Interactive prototype built for Kixie design challenge.
 
   This is a code bundle for Design Alert Center UI. The original project is available at https://www.figma.com/design/S499FljBILfxzvZp1PPQYz/Design-Alert-Center-UI.
 
